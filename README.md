@@ -1,4 +1,5 @@
 🚀 The Nexus | Amason Lerionka Reteti
+
 Computer Science Student @ The Co-operative University of Kenya 🎓
 I am a technically driven developer who thrives at the intersection of logic and collaboration. My portfolio is a collection of my academic rigor and individual curiosity ranging from the architecture of Distributed Systems to the nuances of Java backend logic.
 
