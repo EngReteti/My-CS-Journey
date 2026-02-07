@@ -30,7 +30,7 @@ Engineering is a team sport, and I believe in growing together.
 
 🛠️ Technical Toolkit:
 
-1.Languages: Java (Advanced), JavaScript, SQL, HTML5, CSS3.
+1.Languages: Java, JavaScript, SQL, HTML5, CSS3.
 
 2.Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
 
