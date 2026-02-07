@@ -7,15 +7,15 @@ I am a technically driven developer who thrives at the intersection of logic and
 🧠 The Brain: Critical Thinking & Technical Projects - 
 I view every unit as a challenge to my problem solving skills. Here is how I’ve applied my units to real-world logic: 
 
-1.Programming (Java): Comprehensive coursework focused on Object-Oriented Programming (OOP), robust backend logic, and clean code principles & a pharmacy inventory system miniproject.
+1.Programming (Java): Comprehensive coursework focused on Object-Oriented Programming (OOP), robust backend logic, and clean code principles & a pharmacy inventory system project that solves a real world problem.
 
 2.Data Structures & Algorithms (DSA): Mini-projects implementing optimized search, sort, and time complexity logic to handle data efficiently.
 
-3.Networking & Distributed Systems: Experiments in socket programming, protocol implementation, and synchronized data exchange across nodes.
+3.Networking & Distributed Systems: A client-server miniproject, Experiments in socket programming, protocol implementation, and synchronized data exchange across nodes.
 
 4.Database Management (SQL): Relational database schemas designed for maximum integrity, normalization, and high-speed query performance.
 
-5.Web Design (HTML/JS/CSS): Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
+5.Web Design (HTML/JS/CSS): A school admission form validation, Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
 
 
 🤝 The Heart: Initiative & Mentorship - 
