@@ -15,7 +15,7 @@ I view every unit as a challenge to my problem solving skills. Here is how I’v
 
 4.Database Management (SQL): Relational database schemas designed for maximum integrity, normalization, and high-speed query performance.
 
-5.Web Design (HTML/JS/CSS): A school admission form validation, Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
+5.Web Design (HTML/JS/CSS): A CUK form validation, Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
 
 
 🤝 The Heart: Initiative & Mentorship - 
