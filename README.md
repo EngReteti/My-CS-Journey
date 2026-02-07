@@ -28,12 +28,13 @@ Engineering is a team sport, and I believe in growing together.
 💡 Thriveness: My portfolio is proof of my initiative—I don't just complete coursework; I build, test, and iterate with passion.
 
 
-🛠️ Technical Toolkit
-Languages: Java (Advanced), JavaScript, SQL, HTML5, CSS3.
+🛠️ Technical Toolkit:
 
-Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
+1.Languages: Java (Advanced), JavaScript, SQL, HTML5, CSS3.
 
-Tools: Git/GitHub, MySQL, neat beans.
+2.Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
+
+3.Tools: Git/GitHub, MySQL, neat beans.
 
 📈 Activity & Connection
 📍 Location: Karen, Nairobi, Kenya.
