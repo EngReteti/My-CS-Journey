@@ -29,3 +29,10 @@ Engineering is a team sport, and I believe in growing together.
 Languages: Java (Advanced), JavaScript (ES6+), SQL, HTML5, CSS3.
 Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
 Tools: Git/GitHub, MySQL, neat beans.
+
+📈 Activity & Connection
+📍 Location: Karen, Nairobi, Kenya.
+📫 Reach me: amasonlerionka@gmail.com
+⚡ Fun Fact: I believe that a well-documented README is a form of professional respect.
+
+Building with logic. Leading with empathy. Thriving through code📈.
