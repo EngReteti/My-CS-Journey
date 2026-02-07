@@ -25,7 +25,7 @@ Engineering is a team sport, and I believe in growing together.
 
 🌱 The Encourager: I am a dedicated knowledge sharer, using these repositories to act as a resource for young tech enthusiasts starting their journey.
 
-💡 Thriveness: My portfolio is proof of my initiative—I don't just complete coursework; I build, test, and iterate with passion.
+💡 Thriveness: My portfolio is proof of my initiative, I don't just complete coursework; I build, test, and iterate with passion.
 
 
 🛠️ Technical Toolkit:
