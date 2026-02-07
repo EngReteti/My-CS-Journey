@@ -46,4 +46,4 @@ Engineering is a team sport, and I believe in growing together.
 
 ⚡ Fun Fact: I believe that a well-documented README is a form of professional respect.
 
-Building with logic. Leading with empathy. Thriving through code📈.
+Engineering for the future. Mentoring for the present. Thriving in the logic📈.
