@@ -21,7 +21,7 @@ I view every unit as a challenge to my problem solving skills. Here is how I’v
 🤝 The Heart: Initiative & Mentorship - 
 Engineering is a team sport, and I believe in growing together.
 
-🌏 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics and inclusivity in every sprint.
+🌏 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics. I ensure every voice is heard and inclusivity in every sprint.
 
 🌱 The Encourager: I am a dedicated knowledge sharer, using these repositories to act as a resource for young tech enthusiasts starting their journey.
 
