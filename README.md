@@ -5,7 +5,7 @@ I am a technically driven developer who thrives at the intersection of logic and
 
 
 🧠 The Brain: Critical Thinking & Technical Projects - 
-I view every unit as a challenge to my problem-solving skills. Here is how I’ve applied my units to real-world logic: 
+I view every unit as a challenge to my problem solving skills. Here is how I’ve applied my units to real-world logic: 
 
 1.Programming (Java): Comprehensive coursework focused on Object-Oriented Programming (OOP), robust backend logic, and clean code principles.
 
