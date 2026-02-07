@@ -42,6 +42,8 @@ Engineering is a team sport, and I believe in growing together.
 
 📫 Reach me: amasonlerionka@gmail.com
 
+🔗 linkedin: https://www.linkedin.com/in/amason-reteti-b465a1361
+
 ⚡ Fun Fact: I believe that a well-documented README is a form of professional respect.
 
 Building with logic. Leading with empathy. Thriving through code📈.
