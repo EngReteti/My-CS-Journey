@@ -18,7 +18,7 @@ I view every unit as a challenge to my problem-solving skills. Here is how I’v
 5.Web Design (HTML/JS/CSS): Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
 
 
-🤝 The Heart: Initiative & Mentorship
+🤝 The Heart: Initiative & Mentorship - 
 Engineering is a team sport, and I believe in growing together.
 
 🌏 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics and inclusivity in every sprint.
