@@ -3,6 +3,7 @@
 Computer Science Student @ The Co-operative University of Kenya 🎓
 I am a technically driven developer who thrives at the intersection of logic and collaboration. My portfolio is a collection of my academic rigor and individual curiosity ranging from the architecture of Distributed Systems to the nuances of Java backend logic.
 
+
 🧩 The Brain: Critical Thinking & Technical Projects
 I view every unit as a challenge to my problem-solving skills. Here is how I’ve applied my units to real-world logic: 
 
@@ -16,11 +17,13 @@ I view every unit as a challenge to my problem-solving skills. Here is how I’v
 
 🎨 Web Design (HTML/JS/CSS): Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
 
+
 🤝 The Heart: Initiative & Mentorship
 Engineering is a team sport, and I believe in growing together.
 🌍 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics and inclusivity in every sprint.
 🌱 The Encourager: I am a dedicated knowledge sharer, using these repositories to act as a resource for young tech enthusiasts starting their journey.
 💡 Thriveness: My portfolio is proof of my initiative—I don't just complete coursework; I build, test, and iterate with passion.
+
 
 🛠️ Technical Toolkit
 Languages: Java (Advanced), JavaScript (ES6+), SQL, HTML5, CSS3.
