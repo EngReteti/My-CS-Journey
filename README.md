@@ -40,7 +40,7 @@ Engineering is a team sport, and I believe in growing together.
 
 📍 Location: Karen, Nairobi, Kenya.
 
-📫 Reach me: amasonlerionka@gmail.com
+✉️ Email: amasonlerionka@gmail.com
 
 🔗 linkedin: https://www.linkedin.com/in/amason-reteti-b465a1361
 
