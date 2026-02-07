@@ -23,7 +23,9 @@ Engineering is a team sport, and I believe in growing together.
 
 🌏 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics. I ensure every voice is heard and inclusivity in every sprint.
 
-🌱 The Encourager: I am a dedicated knowledge sharer, using these repositories to act as a resource for young tech enthusiasts starting their journey.
+🌱 Nurturing Young Tech Enthusiasts: I am a passionate encourager dedicated to giving back to the community by simplifying complex concepts for those just starting their journey.
+
+💡 Knowledge Sharing: I take the initiative to document my workflows, believing that mentorship is the best way to ensure a thriving future for the tech industry.
 
 💡 Thriveness: My portfolio is proof of my initiative, I don't just complete coursework; I build, test, and iterate with passion.
 
@@ -46,4 +48,4 @@ Engineering is a team sport, and I believe in growing together.
 
 ⚡ Fun Fact: I believe that a well-documented README is a form of professional respect.
 
-Engineering for the future. Mentoring for the present. Thriving in the logic📈.
+Building through logic. Leading with empathy. Nurturing the future📈.
