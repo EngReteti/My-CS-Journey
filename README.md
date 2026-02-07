@@ -34,7 +34,7 @@ Engineering is a team sport, and I believe in growing together.
 
 2.Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
 
-3.Tools: Git/GitHub, MySQL, neat beans.
+3.Tools: Git/GitHub, MySQL, neat beans, notepad, console, jvdroid, code editor, spck editor.
 
 📈 Activity & Connection:
 
