@@ -1,51 +1,34 @@
-🚀 The Nexus | Amason Lerionka Reteti
+# 🎓 CS Journey: From Logic to Systems
+### Amason Lerionka Reteti | The Co-operative University of Kenya (CUK)
 
-Computer Science Student at The Co-operative University of Kenya 🎓
-I am a technically driven developer who thrives at the intersection of logic and collaboration. My portfolio is a collection of my academic rigor and individual curiosity ranging from the architecture of Distributed Systems to the nuances of Java backend logic.
+Welcome to my digital lab! This repository is a living document of my evolution as a Computer Science student. I am moving from "Hello World" to building robust, scalable solutions.
 
+---
 
-🧠 The Brain: Critical Thinking & Technical Projects - 
-I view every unit as a challenge to my problem solving skills. Here is how I’ve applied my units to real-world logic: 
+## 📚 University Roadmap & Progress
+I track my growth through the units I take at CUK. Each category contains assignments, lab practicals, and mini-projects.
 
-1.Programming (Java): Comprehensive coursework focused on Object-Oriented Programming (OOP), robust backend logic, and clean code principles & a pharmacy inventory system project that solves a real world problem.
+### 💻 Programming & Software Dev
+* **Object-Oriented Programming (Java):** Mastering classes, inheritance, and backend logic. 
+    * *Featured Project:* Pharmacy Inventory System.
+* **Web Design:** Building responsive UI/UX using HTML5, CSS3, and JavaScript.
 
-2.Data Structures & Algorithms (DSA): Mini-projects implementing optimized search, sort, and time complexity logic to handle data efficiently.
+### 🏗️ Systems & Infrastructure
+* **Data Structures & Algorithms (DSA):** Learning to write efficient code with optimized search and sort logic.
+* **Networking & Distributed Systems:** Exploring client-server architecture and socket programming.
+* **Database Management:** Designing relational schemas (SQL) for data integrity.
 
-3.Networking & Distributed Systems: A client-server miniproject, Experiments in socket programming, protocol implementation, and synchronized data exchange across nodes.
+### 🧪 Lab Practicals & Coursework
+* **Mini-Projects:** Individual challenges outside the classroom.
+* **Lab Reports:** Documentation of network configurations and hardware experiments.
+* **Group Discussions:** Collaborative coding and peer-to-peer learning.
 
-4.Database Management (SQL): Relational database schemas designed for maximum integrity, normalization, and high-speed query performance.
+---
 
-5.Web Design (HTML/JS/CSS): A CUK form validation, Responsive, user-centric front-end interfaces that bridge the gap between complex logic and human interaction.
+## 🌱 Growth Tracker (GitHub Explorer)
+As a first-time GitHub explorer, I am focused on:
+1.  **Version Control:** Learning to use Git/Termux for professional workflow.
+2.  **Clean Code:** Improving readability and documentation.
+3.  **Consistency:** Pushing updates as I finish school assignments.
 
-
-🤝 The Heart: Initiative & Mentorship - 
-Engineering is a team sport, and I believe in growing together.
-
-🌏 Cultural Synergy: I communicate effectively across diverse cultures and backgrounds, valuing ethics. I ensure every voice is heard and inclusivity in every sprint.
-
-🌱 Nurturing Young Tech Enthusiasts: I am a passionate encourager dedicated to giving back to the community by simplifying complex concepts for those just starting their journey.
-
-💡 Knowledge Sharing: I take the initiative to document my workflows, believing that mentorship is the best way to ensure a thriving future for the tech industry.
-
-💡 Thriveness: My portfolio is proof of my initiative, I don't just complete coursework; I build, test, and iterate with passion.
-
-
-🛠️ Technical Toolkit:
-
-1.Languages: Java, JavaScript, SQL, HTML5, CSS3.
-
-2.Core Systems: Distributed Architectures, Networking Protocols, Database Normalization.
-
-3.Tools: Git/GitHub, MySQL, neat beans, notepad, console, jvdroid, code editor, spck editor.
-
-📈 Activity & Connection:
-
-📍 Location: Karen, Nairobi, Kenya.
-
-✉️ Email: amasonlerionka@gmail.com
-
-🔗 linkedin: https://www.linkedin.com/in/amason-reteti-b465a1361
-
-⚡ Fun Fact: I believe that a well-documented README is a form of professional respect.
-
-Building through logic. Leading with empathy. Nurturing the future📈.
+> "Engineering is a team sport, and I'm here to play my part while I learn the rules."
