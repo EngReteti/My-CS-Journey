@@ -1,32 +1,23 @@
-# 🎓 CS Journey: From Logic to Systems
-### @EngReteti | The Co-operative University of Kenya (CUK)
+# 🎓 My Computer Science Journey @ CUK
+### @EngReteti | The Co-operative University of Kenya
 
-![Learning Status](https://img.shields.io/badge/Status-Learning-green) ![Language](https://img.shields.io/badge/Language-Java-orange) ![Environment](https://img.shields.io/badge/Environment-Termux-blue)
-
-Welcome to my digital lab! This repository is a living document of my evolution from "Hello World" to building robust, scalable solutions.
+I am a student exploring the world of Software Engineering. This repository is my digital notebook where I track my learning, save my assignments, and document my growth from a curious learner to a technical professional.
 
 ---
 
-## 📚 University Roadmap & Progress
-I track my growth through the units I take at CUK. Each category contains assignments, lab practicals, and mini-projects.
+## 🏗️ What I am Tracking
+I use this space to organize my academic and technical work:
 
-### 💻 Programming & Software Dev
-* **Object-Oriented Programming (Java):** Mastering classes and backend logic (e.g., Pharmacy Inventory System).
-* **Web Design:** Building responsive UI/UX using HTML5, CSS3, and JavaScript.
+* **Course Units:** Code and logic from my current semester modules.
+* **Lab Practicals:** Hands-on experiments from our school laboratories.
+* **Assignments:** My solutions to coursework challenges and programming tasks.
+* **Mini-Projects:** Personal projects like my **Pharmacy Inventory System** (Java).
 
-### 🏗️ Systems & Infrastructure
-* **DSA:** Writing efficient code with optimized search and sort logic.
-* **Networking:** Exploring client-server architecture and socket programming.
-* **Databases:** Designing relational schemas (SQL) for data integrity.
-
-### 🧪 Practical Work
-* **Lab Reports:** Documentation of hardware and network experiments.
-* **Assignments:** Core coursework demonstrating technical problem-solving.
-
----
+## 🧪 Technical Core
+* **Programming:** Java (OOP) and Web Design (HTML/CSS/JS).
+* **Systems:** Data Structures, Networking, and Database Management.
 
 ## 🌱 GitHub Explorer Status
-* **Goal:** Master Git workflow via Termux.
-* **Progress:** Documenting every sprint and school laboratory practical.
+As a first-time explorer, I am learning how to use **Termux** and **Git** to manage my code professionally. Every commit here represents a step forward in my learning journey.
 
-> "Engineering is a team sport. I'm here to learn the rules and build the future."
+> "Confusion is part of the process—solving it is where the growth happens."
