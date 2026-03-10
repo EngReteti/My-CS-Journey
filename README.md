@@ -1,5 +1,5 @@
 🎓 My Computer Science Journey at CUK
-### @EngReteti | The Co-operative University of Kenya
+### EngReteti | The Co-operative University of Kenya
 
 I am a student exploring the world of Software Engineering. This repository is my digital notebook where I track my learning, save my assignments, and document my growth from a curious learner to a technical professional.
 
